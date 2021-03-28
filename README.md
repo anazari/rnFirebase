@@ -81,7 +81,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-While learning and creating React Native applications, I found myself re-creating an authentication and database access workflow with Firebase. I created this template to save myself some time when starting out on a new project. I hope it saves you some time too.
+While learning and creating React Native applications, I found myself creating and re-creating an authentication and database access workflow with Firebase. I created this template to save myself some time when starting out on a new project. I hope it saves you some time too.
 
 
 ### Built With
